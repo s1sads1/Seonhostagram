@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167143847630",
+    "project_id": "seonhostagram",
+    "storage_bucket": "seonhostagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167143847630:android:155558996941fd7643029f",
+        "android_client_info": {
+          "package_name": "com.example.seonhostagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167143847630-jtk1f1ank6odj1kr356sffg421ppkls3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKgQuEO9Wi0rDaFHXyrFZ_4DOhSO0xeC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167143847630-jtk1f1ank6odj1kr356sffg421ppkls3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
